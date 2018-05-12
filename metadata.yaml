@@ -1,0 +1,33 @@
+_repo: The-Popes-and-ScienceMiddle-Ages-and-Down-to-Our-Own-Time_34019
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Walsh, James J. (James Joseph)
+    aliases:
+    - Walsh, J. J. (James Joseph)
+    - Walsh, James Joseph
+    birthdate: 1865
+    deathdate: 1942
+    gutenberg_agent_id: '36672'
+    url: http://www.gutenberg.org/2009/agents/36672
+    wikipedia: http://en.wikipedia.org/wiki/James_Joseph_Walsh
+description: ''
+gutenberg_issued: '2010-10-02'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '34019'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'BX'
+- !lcsh 'Science -- History'
+- !lcsh 'Religion and science -- History'
+- !lcsh 'Popes'
+title: "The Popes and Science\r\nThe History of the Papal Relations to Science During\
+  \ the Middle Ages and Down to Our Own Time"
+url: http://www.gutenberg.org/ebooks/34019
